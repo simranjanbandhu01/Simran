@@ -1,2 +1,2 @@
 # Simran
-Author=simran janbandhu
+Author=simran devanand janbandhu
